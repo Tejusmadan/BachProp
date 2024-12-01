@@ -1,2 +1,2 @@
 # BachProp
-ML based musical composition 
+MusicNet Dataset : https://www.kaggle.com/datasets/imsparsh/musicnet-dataset
